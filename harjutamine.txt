@@ -1,2 +1,4 @@
--------------------------------------------------------------------------------------------------------------------------------------------
 GitHubi läheks mul tulevikus vaja küll. Saaks kõik oma programmide koodid ja sellega kaasneva info siia panna.
+-------------------------------------------------------------------------------------------------------------------------------------------
+Platvormi GitHub.com arendus algas 19. oktoobril 2007. 
+Lehekülje viisid ellu 2008. aasta aprillis Tom Preston-Werner, Chris Wanstrath, P. J. Hyett ja Scott Chacon pärast seda, kui see oli paar kuud enne beetaversiooni kättesaadavaks tehtud. GitHubil on iga-aastane peaettekanne nimega GitHub Universe.
