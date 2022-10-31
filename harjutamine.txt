@@ -1,4 +1,2 @@
-GitHub on populaarne programmeerimisressurss, mida kasutatakse koodi jagamiseks. 
-See on programmeerijate suhtlusvõrgustik, mida paljud ettevõtted ja organisatsioonid kasutavad projektijuhtimise ja koostöö hõlbustamiseks.
 -------------------------------------------------------------------------------------------------------------------------------------------
 GitHubi läheks mul tulevikus vaja küll. Saaks kõik oma programmide koodid ja sellega kaasneva info siia panna.
